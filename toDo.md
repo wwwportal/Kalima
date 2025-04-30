@@ -1,0 +1,8 @@
+- [ ] finish bursary and osap application 
+  - [ ] get parents 2023 income info 
+- [ ] look for final exam resources early 
+- [ ] finish laundry 
+- [ ] get a new USB 
+- [ ] get a new lineless notebook 
+- [ ] learn about co-op hiring rounds 
+- [ ] finish UFILE tax report 
