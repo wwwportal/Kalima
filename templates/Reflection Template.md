@@ -11,5 +11,5 @@
 4. Justification: 
 
 ### Step 3: Abstraction & Application  
-1. Identified Behavioral or Cognitive Pattern:
+1. Identified Behavioral or [[Cognitive]] Pattern:
 2. Experiment:
