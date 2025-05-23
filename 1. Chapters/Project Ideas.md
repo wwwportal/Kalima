@@ -17,4 +17,4 @@ Additional feature: the peer-review system: I know that a peer-review system can
 
 # 3. Cool Projects
 - Cabrera research lab
-- [Alison McDowell](https://wrenchinthegears.com)
+- [[Alison McDowell]]

@@ -31,6 +31,5 @@
     1. Notification System
 
 ## Potential features:
-1. Interactive 3D graph
-    1. [Think Machine](https://app.thinkmachine.com/untitled-1740347618387)
-    2. Identify and create relationships between nodes
+1. [[Interactive 3D graph]]
+    1. Identify and create relationships between nodes

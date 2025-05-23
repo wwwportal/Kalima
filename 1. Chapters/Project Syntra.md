@@ -26,8 +26,7 @@ There are a few core components of this system
    c. Use academic books and papers analyzing the language of the Quran as references  
 2. Add new patterns to a database  
    a. Check for duplicate or near-duplicates  
-   b. Enable users to compare their personal databases  
-   c. [Laws of Metaphor](https://ericsteinhart.com/ANALOGY/lom-home.html)  
+   b. Enable users to compare their personal databases
    d. Logic Proof Theory as a 3D Puzzle Game  
 3. Provide intuitive tools for searching and updating the database  
    a. Pattern visualization  
@@ -64,53 +63,4 @@ We know there are benefits to collaboration. Some have capabilities or shortcomi
    b. **Passive:** Disproving the dhikrah. What criteria will disprove your dhikrah? Address the potential refutations or arguments against the dhikrah. Passive verification never ends. We never have 100% certainty. This teaches plasticity.  
 
 ## Related Artifacts
-1. [Pol.is](https://pol.is/home)  
-2. Human-based computation game - Wikipedia  
-3. Human computation handbook  
-4. Michael Levin collective intelligence  
-5. Gordon Pask conversation theory  
-6. Stafford Beer Viable System Model  
-8. Decentralized Autonomous Organizations  
-9. Collective Super Intelligence  
-10. [Quantum Moves 2](https://www.scienceathome.org/games/quantum-moves-2/)  
-11. Gamified citizen science projects  
-12. Epistemic games  
-13. Cybernetic closed system  
-14. Zoonotic diseases  
-15. Digital twin simulation world  
-16. Global markets  
-17. Global brain  
-18. Web3 tokenization  
-19. Optogenetics  
-20. Evolutionary algorithms  
-21. Protocols  
-22. Water as communication medium  
-23. Shtulman global brain project  
-24. Carbon economy  
-25. Epistemology  
-26. Cognition  
-27. Consciousness  
-28. Theories of Everything  
-29. Intelligence  
-30. Perception  
-31. Perspectives: The system synthesizes multiples perspectives and is interoperable across multiple worldviews, breaking cultural and linguistic barriers of communication.
-33. Quran
-34. Ontology  
-35. Spirituality  
-36. Decision-Making  
-37. Collectivity  
-38. Cosmology  
-39. Mathematics  
-40. Live Action Roleplay Musical  
-41. Alternate Reality Games  
-42. Psychosecurity: the system 
-43. CogNarr  
-44. SwarmAI  
-45. Grammar fields  
-46. Perspectives  
-47. Cognitive space-time
-48. serious games
-49. games with a purpose
-50. citizen science games
-51. https://debategraph.org/
-52. Systems like [AHA!](https://www.contrib.andrew.cmu.edu/~plb/HT98_workshop/DeBra.html) adjust content complexity based on user profiles.
+[[Abstract Lexicon Project]]
