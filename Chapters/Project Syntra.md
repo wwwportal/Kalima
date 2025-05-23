@@ -9,7 +9,15 @@ I guess what I’m trying to build is not necessarily a system that will be used
 
 There are a few core components of this system
 
-Sensors: all the most relevant data about yourself is captured. In existing solutions, this is done using manual logging, and I would like to automate some of this. Dashboard: the captured data is displayed to the user is a user-friendly way that enables them to notice patterns about themselves. Layers: the dashboard creates a summary of the captured data, but the user always has the possibility to unpack the complexity behind a single pattern. Through this process, the user should be able to inform the system on what aspects of themselves they want to focus on, what kind of patterns they want to keep an eye out for. Expectations and reality management: the user’s define self-goal is used to point out where the user might be going off track based on their initial goal. This might mean that the user needs to modify their goal or behavior to attain a higher level of coherence.
+- Sensors to capture the more relevant data about yourself
+  - multimodal unstructured data entry
+  - formatting and structuring system
+- Life Patterns Recognition
+  - all the most relevant data about yourself is captured. In existing solutions, this is done using manual logging, and I would like to automate some of this. Dashboard: the captured data is displayed to the user is a user-friendly way that enables them to notice patterns about themselves. Layers: the dashboard creates a summary of the captured data, but the user always has the possibility to unpack the complexity behind a single pattern. Through this process, the user should be able to inform the system on what aspects of themselves they want to focus on, what kind of patterns they want to keep an eye out for. 
+  - Self-correcting goal system: 
+    - the user’s define goals
+    - evaluation of user performance based on goals and success criteria.
+    - goal revision and updating based on user's changing reality and priorities
 
 ### MAIN PROGRAM: Scriptural Analysis
 1. Identify linguistic patterns in the Quran  
@@ -35,12 +43,15 @@ Sensors: all the most relevant data about yourself is captured. In existing solu
    c. Conversion to structured format to add to database  
 2. Match patterns between user log and Quran
 
-### The innevitability of sharing knowledge: avoiding groupthink in collective research
-We know there are benefits to collaboration. Some have capabilities or shortcomings that others don't. Each person can fill some of the gaps in the research of the other. Simply by "keeping your bullshit meter very high", we can avoid groupthink. By leaving lots of room for doubt.
+### Collaboration
+We know there are benefits to collaboration. Some have capabilities or shortcomings that others don't. Each person can fill some of the gaps in the research of the other. 
+- keeping the bullshit meter very high and leaving room for doubt to avoid groupthink
+- There is a community of practice without hierarchical structures, and no collective identity, no collective strategy or action. 
+- Individual action. We only collaborate in sharing personal results, insights and efforts.
+- You should have non-religious organizations, political, economic, medical, etc. Human watch organization.
 
-There is a community of practice without hierarchical structures, and no collective identity, no collective strategy or action. Individual action. We only collaborate in sharing personal results, insights and efforts, as far as religion goes.
-
-You should have non-religious organizations, political, economic, medical, etc. Human watch organization.
+## Community Self-Organization
+- Simple interface: Users
 
 ## Methodology
 1. Questions  
@@ -82,7 +93,7 @@ You should have non-religious organizations, political, economic, medical, etc. 
 28. Theories of Everything  
 29. Intelligence  
 30. Perception  
-31. Perspectives  
+31. Perspectives: The system synthesizes multiples perspectives and is interoperable across multiple worldviews, breaking cultural and linguistic barriers of communication.
 33. Quran
 34. Ontology  
 35. Spirituality  
@@ -92,7 +103,7 @@ You should have non-religious organizations, political, economic, medical, etc. 
 39. Mathematics  
 40. Live Action Roleplay Musical  
 41. Alternate Reality Games  
-42. Psychosecurity  
+42. Psychosecurity: the system 
 43. CogNarr  
 44. SwarmAI  
 45. Grammar fields  
